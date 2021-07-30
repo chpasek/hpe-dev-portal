@@ -39,7 +39,7 @@ Here you will find repositories, demos, guides and other technical resources fro
 
 ### [Chef Infrastructure ![](Github)](https://github.com/HewlettPackard/oneview-chef)
 
-[Chef](https://www.chef.io/) automates the spin up and updates of fluid resource pools in HPE OneView using software-defined templates.
+[Chef](https://www.chef.io/) automates the spin up and updates of fluid resource pools in HPE OneView using software-defined templates. This project is no longer being developed and has limited support. In the near future this repository will be fully deprecated. Please consider using other OneView projects, such as Terraform and Ansible Collection.
 
 * [Watch the Demo](https://youtu.be/QCAmzIjMHZM)
 * [Browse the Chef Marketplace](https://supermarket.chef.io/cookbooks/oneview)
@@ -82,7 +82,7 @@ The [Prometheus]( https://prometheus.io/) and [Grafana]( https://grafana.com/) c
 
 ### [Puppet ![](Github)](https://github.com/HewlettPackard/oneview-puppet)
 
-The [Puppet](https://puppet.com/) module for HPE OneView automates the configuring and provisioning of bare-metal infrastructure so customers can deliver apps and services faster and easier.
+The [Puppet](https://puppet.com/) module for HPE OneView automates the configuring and provisioning of bare-metal infrastructure. This project is no longer being developed and has limited support. In the near future this repository will be fully deprecated. Please consider using other OneView projects, such as Terraform and Ansible Collection.
 
 - - -
 
@@ -145,7 +145,7 @@ The Redfish toolkit allows customers to take automations that use the Redfish sp
 
 ### [Ruby ![](Github)](https://github.com/HewlettPackard/oneview-sdk-ruby)
 
-The Ruby SDK provides a Ruby library to easily interact with the HPE OneView API, enabling developers to easily build integrations and scalable solutions with HPE OneView.
+The Ruby SDK provides a Ruby library to easily interact with the HPE OneView API. This project is no longer being developed and has limited support. In the near future this repository will be fully deprecated. Please consider using other OneView projects.
 
 * [OneView Ruby SDK Docker Image](https://hub.docker.com/r/hewlettpackardenterprise/hpe-oneview-sdk-for-ruby)
 
